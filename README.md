@@ -1,1 +1,1 @@
-### Olá, bem-vindo!
+### Bem vindo!
