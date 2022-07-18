@@ -6,8 +6,8 @@ Antes de começar, vou lembra-los a vocês. Não irão precisar instalar mais na
 
 ### Status
 
-[x] login integrado.
-[x] Mensagens personalizadas.
-[x] Realizar mais de 1 post ao dia.
-[x] Notificar quando uma postagem for realizada.
-[ ] Programar postagens como queira.
+- [x] login integrado.
+- [x] Mensagens personalizadas.
+- [x] Realizar mais de 1 post ao dia.
+- [x] Notificar quando uma postagem for realizada.
+- [ ] Programar postagens como queira.
