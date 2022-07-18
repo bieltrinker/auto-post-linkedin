@@ -4,6 +4,7 @@
 
 Antes de começar, vou lembra-los a vocês. Não irão precisar instalar mais nada além do arquivo, apenas utilizar o projeto executando o .exe. Logo em seguida realizar todo o horário que vocês querem que seja feito o post.
 
+- Versão https://img.shields.io/github/commits-since/Bieltrinker/auto-post-linkedin/v2.0.3.svg
 ### Status
 
 - [x] login integrado.
